@@ -41,13 +41,13 @@ To run this project, you need to have Python installed on your machine. Follow t
 
     Make sure these dependencies are installed by running:
     ```bash
-    pip install -r requirements.txt
+    pip3 install [name of the library]
     ```
 
 ## Usage
 To visualise the K-Means clustering process, run the script:
 ```bash
-python kmeans_visualisation.py
+python3 kmeans_visualisation.py
 ```
 
 The script will generate plots showing the clustering results for different numbers of centroids on each dataset.
